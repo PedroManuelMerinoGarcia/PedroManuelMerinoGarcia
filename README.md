@@ -23,9 +23,6 @@ Profesional de ciberseguridad y administración de sistemas con Grado Superior e
 Simulación funcional de CyberArk, plataforma de gestión de accesos privilegiados (PAM).  
 Desarrollado en **PHP** con gestión de usuarios, máquinas, permisos y contraseñas.
 
-### ☁️ [AWS EC2 – Docker & Ubuntu](https://github.com/PedroManuelMerinoGarcia/aws-ec2-docker-ubuntu)
-Despliegue y administración de instancias EC2 en AWS con Docker y Ubuntu Server.
-
 ---
 
 ## 🛠️ Habilidades técnicas
